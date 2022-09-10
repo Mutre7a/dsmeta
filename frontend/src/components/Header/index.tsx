@@ -9,7 +9,7 @@ function Header() {
                 <h1>DSmeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="http://thehuntertools.huntertalk.de/thorgans/">Elvis</a>
+                    <a href="http://thehuntertools.huntertalk.de/thorgans/"> Elvis</a>
                 </p>
             </div>
         </header>
